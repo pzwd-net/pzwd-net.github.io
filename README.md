@@ -4,4 +4,6 @@
 
 [https://pzwd.net/](https://pzwd.net/)
 
+[https://pzqa.net/](https://pzqa.net/)
+
 [https://pzwd-net.github.io/](https://pzwd-net.github.io/)
